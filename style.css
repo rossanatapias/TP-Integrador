@@ -1,0 +1,66 @@
+nav img {
+   width: 100px; 
+}
+
+.titulo2{
+    margin-top: 5px;
+    font-size: 1em;
+   display: flex;  
+   flex-direction: column;
+   align-items: center;
+}
+
+.tarjeta {
+   position: absolute; 
+   top:450px;
+   left: 700px;
+   width: 500px;
+   text-align: end;
+
+}
+
+.card {
+   margin-right: 25px;
+}
+
+.card-playa {
+   margin-top: 30px;
+}
+
+.color_gris{
+   background-color:rgb(56, 57, 59);
+}
+
+.contenedor-form {
+   width: ;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.btn-ligh{
+   border: solid white 1px;
+}
+
+.color-boton {
+   background-color: #96c93e;
+   font-size: 1.3em;
+   border: none;
+}
+
+.contenedor-footer{
+   background-color: #1d4e6c;
+   margin-top: 25px;
+}
+
+.nav-pills{
+
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.contenedor-card-horzontal{
+
+   margin-left: 20px;
+   margin-right: auto;
+
+}
